@@ -1,0 +1,5 @@
+{
+  "name": "Maria Jovita - Copy of MediOrchestrator AI",
+  "description": "A healthcare sub-agent orchestration system powered by Gemini. It routes patient requests to specialized agents for records, prescriptions, registration, and scheduling.",
+  "requestFramePermissions": []
+}
